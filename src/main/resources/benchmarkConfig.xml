@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plannerBenchmark xmlns="https://timefold.ai/xsd/benchmark" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="https://timefold.ai/xsd/benchmark https://timefold.ai/xsd/benchmark/benchmark.xsd">
+    <benchmarkDirectory>local/benchmarkReport</benchmarkDirectory>
+
+    <inheritedSolverBenchmark>
+        <solver>
+            <environmentMode>REPRODUCIBLE</environmentMode>
+            <solutionClass>org.example.domain.HomeworkSchedule</solutionClass>
+            <entityClass>org.example.domain.Assignment</entityClass>
+
+            <scoreDirectorFactory>
+                <constraintProviderClass>org.example.solver.StreamCalculator</constraintProviderClass>
+            </scoreDirectorFactory>
+
+            <termination>
+                <secondsSpentLimit>20</secondsSpentLimit>
+            </termination>
+
+            <constructionHeuristic />
+        </solver>
+        <problemBenchmarks>
+            <solutionFileIOClass>org.example.domain.HomeworkScheduleJsonIO</solutionFileIOClass>
+            <writeOutputSolutionEnabled>true</writeOutputSolutionEnabled>
+            <inputSolutionFile>data/classExample500.json</inputSolutionFile>
+        </problemBenchmarks>
+
+
+    </inheritedSolverBenchmark>
+
+    <solverBenchmark>
+        <name>Tabu search</name>
+        <solver>
+            <localSearch>
+                <localSearchType>TABU_SEARCH</localSearchType>
+            </localSearch>
+        </solver>
+    </solverBenchmark>
+    <solverBenchmark>
+        <name>Hill climbing</name>
+        <solver>
+            <localSearch>
+                <localSearchType>HILL_CLIMBING</localSearchType>
+            </localSearch>
+        </solver>
+    </solverBenchmark>
+    <solverBenchmark>
+        <name>Late acceptance</name>
+        <solver>
+            <localSearch>
+                <localSearchType>LATE_ACCEPTANCE</localSearchType>
+            </localSearch>
+        </solver>
+    </solverBenchmark>
+    <solverBenchmark>
+        <name>Simulated Annealing</name>
+        <solver>
+            <localSearch>
+                <acceptor>
+                    <simulatedAnnealingStartingTemperature>100hard/1000soft</simulatedAnnealingStartingTemperature>
+                </acceptor>
+                <forager>
+                    <acceptedCountLimit>1</acceptedCountLimit>
+                </forager>
+            </localSearch>
+        </solver>
+    </solverBenchmark>
+
+</plannerBenchmark>

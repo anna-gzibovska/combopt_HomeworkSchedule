@@ -1,0 +1,96 @@
+{
+  "solutionId" : "HS5",
+  "score" : "-2hard/47soft",
+  "dayList" : [ {
+    "id" : 0,
+    "dateTimeStart" : [ 2024, 1, 22, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 22, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 1,
+    "dateTimeStart" : [ 2024, 1, 23, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 23, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 2,
+    "dateTimeStart" : [ 2024, 1, 24, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 24, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 3,
+    "dateTimeStart" : [ 2024, 1, 25, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 25, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 4,
+    "dateTimeStart" : [ 2024, 1, 26, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 26, 18, 0 ],
+    "availableTime" : 600
+  } ],
+  "assignmentList" : [ {
+    "id" : 0,
+    "mandatory" : false,
+    "value" : 9,
+    "dueDate" : [ 2024, 1, 25, 0, 0 ],
+    "timeToComplete" : 2,
+    "subject" : "Assignment 1",
+    "plannedTimeSlot" : {
+      "id" : 1,
+      "dateTimeStart" : [ 2024, 1, 23, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 23, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 1,
+    "mandatory" : false,
+    "value" : 7,
+    "dueDate" : [ 2024, 1, 26, 0, 0 ],
+    "timeToComplete" : 2,
+    "subject" : "Assignment 2",
+    "plannedTimeSlot" : {
+      "id" : 3,
+      "dateTimeStart" : [ 2024, 1, 25, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 25, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 2,
+    "mandatory" : false,
+    "value" : 3,
+    "dueDate" : [ 2024, 1, 22, 0, 0 ],
+    "timeToComplete" : 3,
+    "subject" : "Assignment 3",
+    "plannedTimeSlot" : {
+      "id" : 2,
+      "dateTimeStart" : [ 2024, 1, 24, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 24, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 3,
+    "mandatory" : true,
+    "value" : 9,
+    "dueDate" : [ 2024, 1, 24, 0, 0 ],
+    "timeToComplete" : 2,
+    "subject" : "Assignment 4",
+    "plannedTimeSlot" : {
+      "id" : 0,
+      "dateTimeStart" : [ 2024, 1, 22, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 22, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 4,
+    "mandatory" : false,
+    "value" : 10,
+    "dueDate" : [ 2024, 1, 22, 0, 0 ],
+    "timeToComplete" : 2,
+    "subject" : "Assignment 5",
+    "plannedTimeSlot" : {
+      "id" : 4,
+      "dateTimeStart" : [ 2024, 1, 26, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 26, 18, 0 ],
+      "availableTime" : 600
+    }
+  } ]
+}

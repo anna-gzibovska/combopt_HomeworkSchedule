@@ -1,0 +1,906 @@
+{
+  "solutionId" : "HS50",
+  "score" : "-3hard/330soft",
+  "dayList" : [ {
+    "id" : 0,
+    "dateTimeStart" : [ 2024, 1, 22, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 22, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 1,
+    "dateTimeStart" : [ 2024, 1, 23, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 23, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 2,
+    "dateTimeStart" : [ 2024, 1, 24, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 24, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 3,
+    "dateTimeStart" : [ 2024, 1, 25, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 25, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 4,
+    "dateTimeStart" : [ 2024, 1, 26, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 26, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 5,
+    "dateTimeStart" : [ 2024, 1, 27, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 27, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 6,
+    "dateTimeStart" : [ 2024, 1, 28, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 28, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 7,
+    "dateTimeStart" : [ 2024, 1, 29, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 29, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 8,
+    "dateTimeStart" : [ 2024, 1, 30, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 30, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 9,
+    "dateTimeStart" : [ 2024, 1, 31, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 1, 31, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 10,
+    "dateTimeStart" : [ 2024, 2, 1, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 1, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 11,
+    "dateTimeStart" : [ 2024, 2, 2, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 2, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 12,
+    "dateTimeStart" : [ 2024, 2, 3, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 3, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 13,
+    "dateTimeStart" : [ 2024, 2, 4, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 4, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 14,
+    "dateTimeStart" : [ 2024, 2, 5, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 5, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 15,
+    "dateTimeStart" : [ 2024, 2, 6, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 6, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 16,
+    "dateTimeStart" : [ 2024, 2, 7, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 7, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 17,
+    "dateTimeStart" : [ 2024, 2, 8, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 8, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 18,
+    "dateTimeStart" : [ 2024, 2, 9, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 9, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 19,
+    "dateTimeStart" : [ 2024, 2, 10, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 10, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 20,
+    "dateTimeStart" : [ 2024, 2, 11, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 11, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 21,
+    "dateTimeStart" : [ 2024, 2, 12, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 12, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 22,
+    "dateTimeStart" : [ 2024, 2, 13, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 13, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 23,
+    "dateTimeStart" : [ 2024, 2, 14, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 14, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 24,
+    "dateTimeStart" : [ 2024, 2, 15, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 15, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 25,
+    "dateTimeStart" : [ 2024, 2, 16, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 16, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 26,
+    "dateTimeStart" : [ 2024, 2, 17, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 17, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 27,
+    "dateTimeStart" : [ 2024, 2, 18, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 18, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 28,
+    "dateTimeStart" : [ 2024, 2, 19, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 19, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 29,
+    "dateTimeStart" : [ 2024, 2, 20, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 20, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 30,
+    "dateTimeStart" : [ 2024, 2, 21, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 21, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 31,
+    "dateTimeStart" : [ 2024, 2, 22, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 22, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 32,
+    "dateTimeStart" : [ 2024, 2, 23, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 23, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 33,
+    "dateTimeStart" : [ 2024, 2, 24, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 24, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 34,
+    "dateTimeStart" : [ 2024, 2, 25, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 25, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 35,
+    "dateTimeStart" : [ 2024, 2, 26, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 26, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 36,
+    "dateTimeStart" : [ 2024, 2, 27, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 27, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 37,
+    "dateTimeStart" : [ 2024, 2, 28, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 28, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 38,
+    "dateTimeStart" : [ 2024, 2, 29, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 2, 29, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 39,
+    "dateTimeStart" : [ 2024, 3, 1, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 1, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 40,
+    "dateTimeStart" : [ 2024, 3, 2, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 2, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 41,
+    "dateTimeStart" : [ 2024, 3, 3, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 3, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 42,
+    "dateTimeStart" : [ 2024, 3, 4, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 4, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 43,
+    "dateTimeStart" : [ 2024, 3, 5, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 5, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 44,
+    "dateTimeStart" : [ 2024, 3, 6, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 6, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 45,
+    "dateTimeStart" : [ 2024, 3, 7, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 7, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 46,
+    "dateTimeStart" : [ 2024, 3, 8, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 8, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 47,
+    "dateTimeStart" : [ 2024, 3, 9, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 9, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 48,
+    "dateTimeStart" : [ 2024, 3, 10, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 10, 18, 0 ],
+    "availableTime" : 600
+  }, {
+    "id" : 49,
+    "dateTimeStart" : [ 2024, 3, 11, 8, 0 ],
+    "dateTimeEnd" : [ 2024, 3, 11, 18, 0 ],
+    "availableTime" : 600
+  } ],
+  "assignmentList" : [ {
+    "id" : 0,
+    "mandatory" : true,
+    "value" : 9,
+    "subject" : "Assignment 1",
+    "dueDate" : [ 2024, 2, 20, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 24,
+      "dateTimeStart" : [ 2024, 2, 15, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 15, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 1,
+    "mandatory" : true,
+    "value" : 4,
+    "subject" : "Assignment 2",
+    "dueDate" : [ 2024, 3, 10, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 42,
+      "dateTimeStart" : [ 2024, 3, 4, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 4, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 2,
+    "mandatory" : true,
+    "value" : 6,
+    "subject" : "Assignment 3",
+    "dueDate" : [ 2024, 2, 3, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 11,
+      "dateTimeStart" : [ 2024, 2, 2, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 2, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 3,
+    "mandatory" : false,
+    "value" : 5,
+    "subject" : "Assignment 4",
+    "dueDate" : [ 2024, 2, 10, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 18,
+      "dateTimeStart" : [ 2024, 2, 9, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 9, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 4,
+    "mandatory" : true,
+    "value" : 1,
+    "subject" : "Assignment 5",
+    "dueDate" : [ 2024, 2, 6, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 9,
+      "dateTimeStart" : [ 2024, 1, 31, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 31, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 5,
+    "mandatory" : false,
+    "value" : 1,
+    "subject" : "Assignment 6",
+    "dueDate" : [ 2024, 1, 28, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 5,
+      "dateTimeStart" : [ 2024, 1, 27, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 27, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 6,
+    "mandatory" : false,
+    "value" : 4,
+    "subject" : "Assignment 7",
+    "dueDate" : [ 2024, 2, 8, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 12,
+      "dateTimeStart" : [ 2024, 2, 3, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 3, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 7,
+    "mandatory" : true,
+    "value" : 8,
+    "subject" : "Assignment 8",
+    "dueDate" : [ 2024, 2, 24, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 30,
+      "dateTimeStart" : [ 2024, 2, 21, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 21, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 8,
+    "mandatory" : false,
+    "value" : 1,
+    "subject" : "Assignment 9",
+    "dueDate" : [ 2024, 1, 25, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 0,
+      "dateTimeStart" : [ 2024, 1, 22, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 22, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 9,
+    "mandatory" : false,
+    "value" : 7,
+    "subject" : "Assignment 10",
+    "dueDate" : [ 2024, 2, 10, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 14,
+      "dateTimeStart" : [ 2024, 2, 5, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 5, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 10,
+    "mandatory" : true,
+    "value" : 1,
+    "subject" : "Assignment 11",
+    "dueDate" : [ 2024, 2, 15, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 3,
+      "dateTimeStart" : [ 2024, 1, 25, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 25, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 11,
+    "mandatory" : true,
+    "value" : 3,
+    "subject" : "Assignment 12",
+    "dueDate" : [ 2024, 2, 11, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 19,
+      "dateTimeStart" : [ 2024, 2, 10, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 10, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 12,
+    "mandatory" : true,
+    "value" : 7,
+    "subject" : "Assignment 13",
+    "dueDate" : [ 2024, 2, 25, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 32,
+      "dateTimeStart" : [ 2024, 2, 23, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 23, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 13,
+    "mandatory" : true,
+    "value" : 9,
+    "subject" : "Assignment 14",
+    "dueDate" : [ 2024, 2, 18, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 26,
+      "dateTimeStart" : [ 2024, 2, 17, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 17, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 14,
+    "mandatory" : false,
+    "value" : 7,
+    "subject" : "Assignment 15",
+    "dueDate" : [ 2024, 2, 9, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 17,
+      "dateTimeStart" : [ 2024, 2, 8, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 8, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 15,
+    "mandatory" : true,
+    "value" : 5,
+    "subject" : "Assignment 16",
+    "dueDate" : [ 2024, 2, 26, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 31,
+      "dateTimeStart" : [ 2024, 2, 22, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 22, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 16,
+    "mandatory" : true,
+    "value" : 10,
+    "subject" : "Assignment 17",
+    "dueDate" : [ 2024, 2, 15, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 20,
+      "dateTimeStart" : [ 2024, 2, 11, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 11, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 17,
+    "mandatory" : false,
+    "value" : 4,
+    "subject" : "Assignment 18",
+    "dueDate" : [ 2024, 2, 1, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 9,
+      "dateTimeStart" : [ 2024, 1, 31, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 31, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 18,
+    "mandatory" : false,
+    "value" : 10,
+    "subject" : "Assignment 19",
+    "dueDate" : [ 2024, 2, 21, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 27,
+      "dateTimeStart" : [ 2024, 2, 18, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 18, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 19,
+    "mandatory" : false,
+    "value" : 10,
+    "subject" : "Assignment 20",
+    "dueDate" : [ 2024, 2, 3, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 4,
+      "dateTimeStart" : [ 2024, 1, 26, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 26, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 20,
+    "mandatory" : true,
+    "value" : 2,
+    "subject" : "Assignment 21",
+    "dueDate" : [ 2024, 2, 21, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 28,
+      "dateTimeStart" : [ 2024, 2, 19, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 19, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 21,
+    "mandatory" : false,
+    "value" : 2,
+    "subject" : "Assignment 22",
+    "dueDate" : [ 2024, 3, 2, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 39,
+      "dateTimeStart" : [ 2024, 3, 1, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 1, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 22,
+    "mandatory" : false,
+    "value" : 6,
+    "subject" : "Assignment 23",
+    "dueDate" : [ 2024, 1, 31, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 0,
+      "dateTimeStart" : [ 2024, 1, 22, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 22, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 23,
+    "mandatory" : false,
+    "value" : 1,
+    "subject" : "Assignment 24",
+    "dueDate" : [ 2024, 2, 19, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 25,
+      "dateTimeStart" : [ 2024, 2, 16, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 16, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 24,
+    "mandatory" : true,
+    "value" : 2,
+    "subject" : "Assignment 25",
+    "dueDate" : [ 2024, 1, 30, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 6,
+      "dateTimeStart" : [ 2024, 1, 28, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 28, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 25,
+    "mandatory" : false,
+    "value" : 6,
+    "subject" : "Assignment 26",
+    "dueDate" : [ 2024, 3, 11, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 43,
+      "dateTimeStart" : [ 2024, 3, 5, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 5, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 26,
+    "mandatory" : true,
+    "value" : 10,
+    "subject" : "Assignment 27",
+    "dueDate" : [ 2024, 2, 4, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 10,
+      "dateTimeStart" : [ 2024, 2, 1, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 1, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 27,
+    "mandatory" : true,
+    "value" : 7,
+    "subject" : "Assignment 28",
+    "dueDate" : [ 2024, 2, 8, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 1,
+      "dateTimeStart" : [ 2024, 1, 23, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 23, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 28,
+    "mandatory" : false,
+    "value" : 2,
+    "subject" : "Assignment 29",
+    "dueDate" : [ 2024, 3, 10, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 47,
+      "dateTimeStart" : [ 2024, 3, 9, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 9, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 29,
+    "mandatory" : true,
+    "value" : 9,
+    "subject" : "Assignment 30",
+    "dueDate" : [ 2024, 3, 2, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 38,
+      "dateTimeStart" : [ 2024, 2, 29, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 29, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 30,
+    "mandatory" : false,
+    "value" : 7,
+    "subject" : "Assignment 31",
+    "dueDate" : [ 2024, 2, 14, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 15,
+      "dateTimeStart" : [ 2024, 2, 6, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 6, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 31,
+    "mandatory" : true,
+    "value" : 3,
+    "subject" : "Assignment 32",
+    "dueDate" : [ 2024, 3, 4, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 40,
+      "dateTimeStart" : [ 2024, 3, 2, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 2, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 32,
+    "mandatory" : false,
+    "value" : 10,
+    "subject" : "Assignment 33",
+    "dueDate" : [ 2024, 2, 15, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 21,
+      "dateTimeStart" : [ 2024, 2, 12, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 12, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 33,
+    "mandatory" : false,
+    "value" : 4,
+    "subject" : "Assignment 34",
+    "dueDate" : [ 2024, 3, 2, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 36,
+      "dateTimeStart" : [ 2024, 2, 27, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 27, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 34,
+    "mandatory" : false,
+    "value" : 5,
+    "subject" : "Assignment 35",
+    "dueDate" : [ 2024, 3, 4, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 41,
+      "dateTimeStart" : [ 2024, 3, 3, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 3, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 35,
+    "mandatory" : true,
+    "value" : 3,
+    "subject" : "Assignment 36",
+    "dueDate" : [ 2024, 2, 2, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 7,
+      "dateTimeStart" : [ 2024, 1, 29, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 29, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 36,
+    "mandatory" : false,
+    "value" : 4,
+    "subject" : "Assignment 37",
+    "dueDate" : [ 2024, 2, 8, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 2,
+      "dateTimeStart" : [ 2024, 1, 24, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 24, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 37,
+    "mandatory" : false,
+    "value" : 1,
+    "subject" : "Assignment 38",
+    "dueDate" : [ 2024, 2, 21, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 29,
+      "dateTimeStart" : [ 2024, 2, 20, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 20, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 38,
+    "mandatory" : false,
+    "value" : 6,
+    "subject" : "Assignment 39",
+    "dueDate" : [ 2024, 2, 21, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 23,
+      "dateTimeStart" : [ 2024, 2, 14, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 14, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 39,
+    "mandatory" : true,
+    "value" : 4,
+    "subject" : "Assignment 40",
+    "dueDate" : [ 2024, 3, 9, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 44,
+      "dateTimeStart" : [ 2024, 3, 6, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 6, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 40,
+    "mandatory" : false,
+    "value" : 8,
+    "subject" : "Assignment 41",
+    "dueDate" : [ 2024, 2, 26, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 33,
+      "dateTimeStart" : [ 2024, 2, 24, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 24, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 41,
+    "mandatory" : true,
+    "value" : 8,
+    "subject" : "Assignment 42",
+    "dueDate" : [ 2024, 2, 8, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 8,
+      "dateTimeStart" : [ 2024, 1, 30, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 1, 30, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 42,
+    "mandatory" : false,
+    "value" : 6,
+    "subject" : "Assignment 43",
+    "dueDate" : [ 2024, 2, 14, 0, 0 ],
+    "timeToComplete" : 2,
+    "plannedTimeSlot" : {
+      "id" : 22,
+      "dateTimeStart" : [ 2024, 2, 13, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 13, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 43,
+    "mandatory" : false,
+    "value" : 10,
+    "subject" : "Assignment 44",
+    "dueDate" : [ 2024, 2, 29, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 35,
+      "dateTimeStart" : [ 2024, 2, 26, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 26, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 44,
+    "mandatory" : true,
+    "value" : 2,
+    "subject" : "Assignment 45",
+    "dueDate" : [ 2024, 2, 10, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 16,
+      "dateTimeStart" : [ 2024, 2, 7, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 7, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 45,
+    "mandatory" : false,
+    "value" : 9,
+    "subject" : "Assignment 46",
+    "dueDate" : [ 2024, 1, 23, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 45,
+      "dateTimeStart" : [ 2024, 3, 7, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 7, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 46,
+    "mandatory" : false,
+    "value" : 10,
+    "subject" : "Assignment 47",
+    "dueDate" : [ 2024, 2, 11, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 13,
+      "dateTimeStart" : [ 2024, 2, 4, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 4, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 47,
+    "mandatory" : false,
+    "value" : 7,
+    "subject" : "Assignment 48",
+    "dueDate" : [ 2024, 3, 11, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 48,
+      "dateTimeStart" : [ 2024, 3, 10, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 3, 10, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 48,
+    "mandatory" : true,
+    "value" : 3,
+    "subject" : "Assignment 49",
+    "dueDate" : [ 2024, 2, 29, 0, 0 ],
+    "timeToComplete" : 3,
+    "plannedTimeSlot" : {
+      "id" : 34,
+      "dateTimeStart" : [ 2024, 2, 25, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 25, 18, 0 ],
+      "availableTime" : 600
+    }
+  }, {
+    "id" : 49,
+    "mandatory" : false,
+    "value" : 7,
+    "subject" : "Assignment 50",
+    "dueDate" : [ 2024, 3, 5, 0, 0 ],
+    "timeToComplete" : 1,
+    "plannedTimeSlot" : {
+      "id" : 37,
+      "dateTimeStart" : [ 2024, 2, 28, 8, 0 ],
+      "dateTimeEnd" : [ 2024, 2, 28, 18, 0 ],
+      "availableTime" : 600
+    }
+  } ]
+}
